@@ -13,3 +13,6 @@
 [submodule "source/AscendingSource.Editors"]
 	path = source/AscendingSource.Editors
 	url = https://github.com/XerShade/AscendingSource.Editors.git
+[submodule "source/source/AscendingSource.Editors"]
+	path = source/source/AscendingSource.Editors
+	url = https://github.com/XerShade/AscendingSource.Editors.git
